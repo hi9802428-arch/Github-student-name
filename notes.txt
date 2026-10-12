@@ -1,0 +1,3 @@
+
+Git is useful because it allow to select and review changes before committing them.
+It helps create clean organied commits by including only the changes we want.
